@@ -1,0 +1,391 @@
+<html>
+  <!------------------------------- START OF TOP TEMPLATE ---------------------------------->
+    <head>
+        <meta charset="UTF-8">
+        <!-- Description -->
+        <title> Xylencer </title>
+        <meta name="description" content="Xylencer is an enhanced bacteriophage therapy that is designed to combat plant pathogen Xylella fastidiosa." />
+        <meta name="author" content=" Dennie te Molder" />
+
+        <!-- Device settings -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <!-- Favicons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="https://2019.igem.org/wiki/images/c/c0/T--Wageningen_UR--apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://2019.igem.org/wiki/images/a/a1/T--Wageningen_UR--favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://2019.igem.org/wiki/images/8/81/T--Wageningen_UR--favicon-16x16.png">
+        <link rel="mask-icon" href="https://2019.igem.org/wiki/images/f/f2/T--Wageningen_UR--safari-pinned-tab.svg" color="#929000">
+        <link rel="shortcut icon" href="https://2019.igem.org/wiki/images/c/c7/T--Wageningen_UR--favicon.ico.png">
+        <meta name="apple-mobile-web-app-title" content="Xylencer">
+        <meta name="application-name" content="Xylencer">
+        <meta name="theme-color" content="#929000">
+
+        <!-- Wiki Reset -->
+        <script>
+            !function() {
+                document.getElementById("HQ_page").removeAttribute("id");
+                document.getElementById("globalWrapper").removeAttribute("id");
+                document.getElementById("content").removeAttribute("id");
+                document.getElementById("bodyContent").removeAttribute("id");
+                document.getElementById("mw-content-text").removeAttribute("id");
+                document.getElementsByClassName("mw-body")[0].removeAttribute("class");
+                document.getElementsByClassName("mw-content-ltr")[0].className = "my-content";
+            }()
+        </script>
+
+        <link rel="stylesheet" href="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/css/reset.css&action=raw&ctype=text/css" type="text/css">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/css/fontawesome.min.css&action=raw&ctype=text/css" type="text/css">
+        <link rel="stylesheet" href="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/css/material_icons.css&action=raw&ctype=text/css" type="text/css">
+        <link rel="stylesheet" href="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/css/lato.css&action=raw&ctype=text/css" type="text/css">
+
+        <!-- Styles -->
+        <link rel="stylesheet" href="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/css/materialize.min.css&action=raw&ctype=text/css" type="text/css">
+        <link rel="stylesheet" href="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/css/aos.css&action=raw&ctype=text/css" type="text/css">
+        <link rel="stylesheet" href="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/css/main.css&action=raw&ctype=text/css" type="text/css">
+    </head>
+
+    <!-- Preloader -->
+    <div class="preloader-background">
+        <dna>
+        <column>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        </column>
+        <column>
+        <dash></dash>
+        <dash></dash>
+        <dash></dash>
+        <dash></dash>
+        <dash></dash>
+        <dash></dash>
+        <dash></dash>
+        <dash></dash>
+        </column>
+        <column>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        </column>
+        </dna>
+    </div>
+
+    <!-- Navigation -->
+    <div class="navbar-fixed">
+        <nav class="white">
+            <div class="nav-container">
+                <div class="nav-wrapper">
+                    <a class="brand-logo" href="http://2019.igem.org/Team:Wageningen_UR"><img
+                            src="https://2019.igem.org/wiki/images/thumb/6/6a/T--Wageningen_UR--Logo_only.png/370px-T--Wageningen_UR--Logo_only.png">XYLENCER</a>
+                    <a class="sidenav-trigger right" href="#" data-target="mobile-nav"><i
+                            class="material-icons">menu</i></a>
+                    <ul class="right hide-on-med-and-down">
+                        <!-- Project -->
+                        <li>
+                            <a class="dropdown-trigger" data-target="drop-project" onclick="M.Dropdown.getInstance(this).open()">
+                                Project <i class="material-icons right">arrow_drop_down</i>
+                            </a>
+                        </li>
+                        <ul id="drop-project" class="dropdown-content z-depth-1-topless">
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Description">Description</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Design">Design</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Background">Background</a></li>
+                        </ul>
+                        <!-- Results -->
+                        <li>
+                            <a class="dropdown-trigger" data-target="drop-results" onclick="M.Dropdown.getInstance(this).open()">Results <i
+                                    class="material-icons right">arrow_drop_down</i></a>
+                        </li>
+                        <ul id="drop-results" class="dropdown-content z-depth-1-topless">
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Results">Overview</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Model">Modeling</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Demonstrate">Demonstrate</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Achievements">Achievements</a></li>
+                        </ul>
+                        <!-- Notebook -->
+                        <li>
+                            <a class="dropdown-trigger" data-target="drop-notebook" onclick="M.Dropdown.getInstance(this).open()">
+                                Notebook <i class="material-icons right">arrow_drop_down</i>
+                            </a>
+                        </li>
+                        <ul id="drop-notebook" class="dropdown-content z-depth-1-topless">
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Notebook">Labjournals</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Experiments">Protocols</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Parts">Parts</a></li>
+                        </ul>
+                        <!-- Safety -->
+                        <li>
+                            <a class="dropdown-trigger" data-target="drop-safety" onclick="M.Dropdown.getInstance(this).open()">
+                                Safety <i class="material-icons right">arrow_drop_down</i>
+                            </a>
+                        </li>
+                        <ul id="drop-safety" class="dropdown-content z-depth-1-topless">
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Safety">Overview</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Safety/Biosafety">Biosafety</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Safety/Biosecurity">Biosecurity</a>
+                            </li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Safety/Lab_Safety">Lab Safety</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Safety/Safe_By_Design">Safe By
+                                    Design</a></li>
+                        </ul>
+                        <!-- Human Practices -->
+                        <li>
+                            <a class="dropdown-trigger" data-target="drop-hp" onclick="M.Dropdown.getInstance(this).open()">
+                                Human Practices <i class="material-icons right">arrow_drop_down</i>
+                            </a>
+                        </li>
+                        <ul id="drop-hp" class="dropdown-content z-depth-1-topless">
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Human_Practices">Human Practices</a>
+                            </li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Public_Engagement">Education &amp;
+                                    Engagement</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Collaborations">Collaborations</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Ethics">Ethics</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Voice">Voice of iGEM</a></li>
+                        </ul>
+                        <!-- About Us -->
+                        <li>
+                            <a class="dropdown-trigger" data-target="drop-about" onclick="M.Dropdown.getInstance(this).open()">
+                                About Us <i class="material-icons right">arrow_drop_down</i>
+                            </a>
+                        </li>
+                        <ul id="drop-about" class="dropdown-content z-depth-1-topless">
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Team">The Team</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Attributions">Attributions</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Sponsors">Sponsors</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/About">About the Wiki</a></li>
+                        </ul>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    <!-- Mobile Nav -->
+    <ul id="mobile-nav" class="sidenav">
+        <img class="sidenav-logo"
+            src="https://2019.igem.org/wiki/images/thumb/4/48/T--Wageningen_UR--Logo-black.png/800px-T--Wageningen_UR--Logo-black.png"
+            alt="Xylencer">
+        <div class="divider"></div>
+        <li>
+            <ul class="collapsible">
+                <!-- Project -->
+                <li>
+                    <a class="collapsible-header waves-effect">Project <i
+                            class="material-icons right">arrow_drop_down</i></a>
+                    <div class="collapsible-body z-depth-negative">
+                        <ul>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Description">Description</a></li>
+                            <li><a class="waves-effect" href="http://2019.igem.org/Team:Wageningen_UR/Design">Design</a>
+                            </li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Background">Background</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <!-- Results -->
+                <li>
+                    <a class="collapsible-header waves-effect">Results <i
+                            class="material-icons right">arrow_drop_down</i></a>
+                    <div class="collapsible-body z-depth-negative">
+                        <ul>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Results">Overview</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Model">Modeling</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Demonstrate">Demonstrate</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Achievements">Achievements</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <!-- Notebook -->
+                <li>
+                    <a class="collapsible-header waves-effect">Notebook <i
+                            class="material-icons right">arrow_drop_down</i></a>
+                    <div class="collapsible-body z-depth-negative">
+                        <ul>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Notebook">Labjournals</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Experiments">Protocols</a></li>
+                            <li><a class="waves-effect" href="http://2019.igem.org/Team:Wageningen_UR/Parts">Parts</a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+                <!-- Safety -->
+                <li>
+                    <a class="collapsible-header waves-effect">Safety <i
+                            class="material-icons right">arrow_drop_down</i></a>
+                    <div class="collapsible-body z-depth-negative">
+                        <ul>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Safety">Overview</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Safety/Biosafety">Biosafety</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Safety/Biosecurity">Biosecurity</a>
+                            </li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Safety/Lab_Safety">Lab Safety</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Safety/Safe_By_Design">Safe By
+                                    Design</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <!-- Human Practices -->
+                <li>
+                    <a class="collapsible-header">Human Practices <i
+                            class="material-icons right">arrow_drop_down</i></a>
+                    <div class="collapsible-body z-depth-negative">
+                        <ul>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Human_Practices">Human Practices</a>
+                            </li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Public_Engagement">Education &amp;
+                                    Engagement</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Collaborations">Collaborations</a>
+                            </li>
+                            <li><a class="waves-effect" href="http://2019.igem.org/Team:Wageningen_UR/Ethics">Ethics</a>
+                            </li>
+                            <li><a class="waves-effect" href="http://2019.igem.org/Team:Wageningen_UR/Voice">Voice of
+                                    iGEM</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <!-- About Us -->
+                <li>
+                    <a class="collapsible-header waves-effect">About Us <i
+                            class="material-icons right">arrow_drop_down</i></a>
+                    <div class="collapsible-body z-depth-negative">
+                        <ul>
+                            <li><a class="waves-effect" href="http://2019.igem.org/Team:Wageningen_UR/Team">The Team</a>
+                            </li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Attributions">Attributions</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Sponsors">Sponsors</a></li>
+                            <li><a class="waves-effect" href="http://2019.igem.org/Team:Wageningen_UR/About">About the
+                                    Wiki</a></li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </li>
+        <!-- Social media -->
+        <li>
+            <div class="row padding">
+                <div class="col s4 center">
+                    <a class="btn-floating grape-purple hover-opacity waves-effect waves-light scale-transition scale-out"
+                        href="https://twitter.com/igemwageningen" target="_blank">
+                        <i class="fab fa-twitter-square small white-text"></i>
+                    </a>
+                </div>
+                <div class="col s4 center">
+                    <a class="btn-floating grape-purple hover-opacity waves-effect waves-light scale-transition scale-out"
+                        href="https://www.instagram.com/igem.wageningen/" target="_blank">
+                        <i class="fab fa-instagram small white-text"></i>
+                    </a>
+                </div>
+                <div class="col s4 center">
+                    <a class="btn-floating grape-purple hover-opacity waves-effect waves-light scale-transition scale-out"
+                        href="https://www.facebook.com/pg/iGEMWageningen/posts/" target="_blank">
+                        <i class="fab fa-facebook-square small white-text"></i>
+                    </a>
+                </div>
+            </div>
+        </li>
+    </ul>
+    <!------------------------------- END OF TOP TEMPLATE ---------------------------------->
+</html>
+
+<html>
+    <!------------------------------- START OF BOTTOM TEMPLATE ---------------------------------->
+    <!-- Footer -->
+    <footer class="page-footer olive-green">
+        <div class="container">
+            <div class="row">
+                <div class="col l6 s12">
+                    <h5>Xylencer</h5>
+                    <p class="left-align">A project by the Wageningen University &amp; Research iGEM 2019 team.</p>
+                    <h5>Contact</h5>
+                    <div class="valign-wrapper">
+                        <i class="material-icons small">mail_outline</i>
+                        <a class="white-text hover-bold" href="mailto:igemwageningen@gmail.com">igemwageningen@gmail.com</a>
+                    </div>
+                </div>
+                <div class="col l4 offset-l2 s12">
+                    <h5 class="white-text">Follow Us!</h5>
+                    <ul>
+                        <li>
+                            <div class="valign-wrapper">
+                                <i class="fab fa-twitter-square small"></i>
+                                <a class="white-text hover-bold" href="https://twitter.com/igemwageningen" target="_blank">@igemwageningen</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="valign-wrapper">
+                                <i class="fab fa-instagram small"></i>
+                                <a class="white-text hover-bold" href="https://www.instagram.com/igem.wageningen/" target="_blank">igem.wageningen</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="valign-wrapper">
+                                <i class="fab fa-facebook-square small"></i>
+                                <a class="white-text hover-bold" href="https://www.facebook.com/pg/iGEMWageningen/posts/" target="_blank">iGEMWageningen</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="valign-wrapper">
+                                <i class="fab fa-linkedin small"></i>
+                                <a class="white-text hover-bold" href="https://www.linkedin.com/in/igem-wageningen-333033191/" target="_blank">iGEM Wageningen</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="container center">Xylencer 2019</div>
+        </div>
+    </footer>
+
+    <!-- FAB -->
+    <div id="section-nav" class="fixed-action-btn">
+        <a id="section-nav-button"
+            class="btn-floating btn-large grape-purple waves-effect waves-circle waves-light z-depth-3"
+            onclick="firstActivation = false;">
+            <i class="large material-icons">swap_vert</i>
+        </a>
+        <!-- This List is auto generated -->
+        <ul>
+            <li>
+                <h6 class="no-margin">SECTIONS</h6>
+            </li>
+            <li><a class="btn-floating z-depth-1" href="#home">Back To Top</a></li>
+        </ul>
+    </div>
+
+    <script src="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/js/materialize.min.js&action=raw&ctype=text/javascript" type="text/javascript"></script>
+    <script src="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/js/aos.js&action=raw&ctype=text/javascript" type="text/javascript"></script>
+    <script src="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/js/main.js&action=raw&ctype=text/javascript" type="text/javascript"></script>
+    <!------------------------------- END OF BOTTOM TEMPLATE ---------------------------------->
+</html>
