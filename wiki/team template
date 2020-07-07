@@ -1,0 +1,1937 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Team:Wageningen UR/Team - 2019.igem.org</title>
+<meta name="generator" content="MediaWiki 1.24.1" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="2019.igem.org (en)" />
+<link rel="alternate" hreflang="x-default" href="/Team:Wageningen_UR/Team" />
+<link rel="copyright" href="https://creativecommons.org/licenses/by/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="2019.igem.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="https://2019.igem.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.igem.styles&amp;only=styles&amp;skin=igem&amp;*" />
+<!--[if IE 6]><link rel="stylesheet" href="/wiki/skins/Igem/IE60Fixes.css?303" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/wiki/skins/Igem/IE70Fixes.css?303" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: 2019_igem_org:resourceloader:filter:minify-css:7:35f114711b15fda1f15f5df02b43e4bc */</style>
+<script src="https://2019.igem.org/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=igem&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Team:Wageningen_UR/Team","wgTitle":"Team:Wageningen UR/Team","wgCurRevisionId":536508,"wgRevisionId":536508,"wgArticleId":8608,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Team:Wageningen_UR/Team","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":0,"shownumberswatching":1,"showtoolbar":1,"skin":"igem","stubthreshold":0,"thumbsize":5,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: 2019_igem_org:resourceloader:filter:minify-js:7:c2a6e0f393444edcfe542f485c3692c2 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Wageningen_UR_Team skin-igem action-view">
+
+        <script type='text/javascript'         src ='/common/tablesorter/jquery.tablesorter.min.js'></script>
+        <link rel='stylesheet' type='text/css' href='/common/tablesorter/themes/groupparts/style.css' />
+        <link rel='stylesheet' type='text/css' href='/common/table_styles.css' />
+
+        <script type='text/javascript'         src ='/wiki/skins/Igem/resources/2019_skin.js'></script>
+
+
+    <div id='globalWrapper'>
+        <div id='top_menu_under' class='noprint'></div>
+        <div id='top_menu_14' class='noprint'>Loading menubar.....</div> <!-- Will be replaced with the jQuery.load -->
+		<script>jQuery('#top_menu_14').load('https://2019.igem.org/cgi/top_menu_14/menubar_reply.cgi',
+						    {   t:"Team%3AWageningen%20UR%2FTeam",
+							a:"View+%2FTeam%3AWageningen_UR%2FTeam++View source+%2Fwiki%2Findex.php%3Ftitle%3DTeam%3AWageningen_UR%2FTeam%26action%3Dedit++History+%2Fwiki%2Findex.php%3Ftitle%3DTeam%3AWageningen_UR%2FTeam%26action%3Dhistory++Page+%2FTeam%3AWageningen_UR%2FTeam++Discussion+%2Fwiki%2Findex.php%3Ftitle%3DTalk%3ATeam%3AWageningen_UR%2FTeam%26action%3Dedit%26redlink%3D1++" });
+		</script>
+
+        <!-- Content div contains HQ_page for HQ styles, Logo and title div, and USER CONTENT -->
+		<div id="content" class="mw-body" role="main">
+		    <a id="top"></a>
+
+            <div id="top_title">
+                <div class="logo_2019">
+                    <a href="https://2019.igem.org">
+                    <img src="https://2019.igem.org/wiki/images/8/8b/HQ_page_logo.jpg" width="100px">
+                    </a>
+                </div>
+
+ 		        <h1 id="firstHeading" class="firstHeading">
+		            <span dir="auto">Team:Wageningen UR/Team</span>
+		        </h1>
+            </div>
+
+            <div id="HQ_page">
+                <div id="bodyContent">
+		            <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>
+    <head>
+        <meta charset="UTF-8">
+        <!-- Description -->
+        <title> Xylencer </title>
+        <meta name="description" content="Xylencer is an enhanced bacteriophage therapy that is designed to combat plant pathogen Xylella fastidiosa." />
+        <meta name="author" content=" Dennie te Molder" />
+
+        <!-- Device settings -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <!-- Favicons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="https://2019.igem.org/wiki/images/c/c0/T--Wageningen_UR--apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://2019.igem.org/wiki/images/a/a1/T--Wageningen_UR--favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://2019.igem.org/wiki/images/8/81/T--Wageningen_UR--favicon-16x16.png">
+        <link rel="mask-icon" href="https://2019.igem.org/wiki/images/f/f2/T--Wageningen_UR--safari-pinned-tab.svg" color="#929000">
+        <link rel="shortcut icon" href="https://2019.igem.org/wiki/images/c/c7/T--Wageningen_UR--favicon.ico.png">
+        <meta name="apple-mobile-web-app-title" content="Xylencer">
+        <meta name="application-name" content="Xylencer">
+        <meta name="theme-color" content="#929000">
+
+        <!-- Wiki Reset -->
+        <script>
+            !function() {
+                document.getElementById("HQ_page").removeAttribute("id");
+                document.getElementById("globalWrapper").removeAttribute("id");
+                document.getElementById("content").removeAttribute("id");
+                document.getElementById("bodyContent").removeAttribute("id");
+                document.getElementById("mw-content-text").removeAttribute("id");
+                document.getElementsByClassName("mw-body")[0].removeAttribute("class");
+                document.getElementsByClassName("mw-content-ltr")[0].className = "my-content";
+            }()
+        </script>
+
+        <link rel="stylesheet" href="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/css/reset.css&amp;action=raw&amp;ctype=text/css" type="text/css">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/css/fontawesome.min.css&amp;action=raw&amp;ctype=text/css" type="text/css">
+        <link rel="stylesheet" href="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/css/material_icons.css&amp;action=raw&amp;ctype=text/css" type="text/css">
+        <link rel="stylesheet" href="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/css/lato.css&amp;action=raw&amp;ctype=text/css" type="text/css">
+
+        <!-- Styles -->
+        <link rel="stylesheet" href="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/css/materialize.min.css&amp;action=raw&amp;ctype=text/css" type="text/css">
+        <link rel="stylesheet" href="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/css/aos.css&amp;action=raw&amp;ctype=text/css" type="text/css">
+        <link rel="stylesheet" href="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/css/main.css&amp;action=raw&amp;ctype=text/css" type="text/css">
+    </head>
+
+    <!-- Preloader -->
+    <div class="preloader-background">
+        <dna>
+        <column>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        </column>
+        <column>
+        <dash></dash>
+        <dash></dash>
+        <dash></dash>
+        <dash></dash>
+        <dash></dash>
+        <dash></dash>
+        <dash></dash>
+        <dash></dash>
+        </column>
+        <column>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        <dot></dot>
+        </column>
+        </dna>
+    </div>
+
+    <!-- Navigation -->
+    <div class="navbar-fixed">
+        <nav class="white">
+            <div class="nav-container">
+                <div class="nav-wrapper">
+                    <a class="brand-logo" href="http://2019.igem.org/Team:Wageningen_UR"><img
+                            src="https://2019.igem.org/wiki/images/thumb/6/6a/T--Wageningen_UR--Logo_only.png/370px-T--Wageningen_UR--Logo_only.png">XYLENCER</a>
+                    <a class="sidenav-trigger right" href="#" data-target="mobile-nav"><i
+                            class="material-icons">menu</i></a>
+                    <ul class="right hide-on-med-and-down">
+                        <!-- Project -->
+                        <li>
+                            <a class="dropdown-trigger" data-target="drop-project" onclick="M.Dropdown.getInstance(this).open()">
+                                Project <i class="material-icons right">arrow_drop_down</i>
+                            </a>
+                        </li>
+                        <ul id="drop-project" class="dropdown-content z-depth-1-topless">
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Description">Description</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Design">Design</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Background">Background</a></li>
+                        </ul>
+                        <!-- Results -->
+                        <li>
+                            <a class="dropdown-trigger" data-target="drop-results" onclick="M.Dropdown.getInstance(this).open()">Results <i
+                                    class="material-icons right">arrow_drop_down</i></a>
+                        </li>
+                        <ul id="drop-results" class="dropdown-content z-depth-1-topless">
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Results">Overview</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Model">Modeling</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Demonstrate">Demonstrate</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Achievements">Achievements</a></li>
+                        </ul>
+                        <!-- Notebook -->
+                        <li>
+                            <a class="dropdown-trigger" data-target="drop-notebook" onclick="M.Dropdown.getInstance(this).open()">
+                                Notebook <i class="material-icons right">arrow_drop_down</i>
+                            </a>
+                        </li>
+                        <ul id="drop-notebook" class="dropdown-content z-depth-1-topless">
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Notebook">Labjournals</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Experiments">Protocols</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Parts">Parts</a></li>
+                        </ul>
+                        <!-- Safety -->
+                        <li>
+                            <a class="dropdown-trigger" data-target="drop-safety" onclick="M.Dropdown.getInstance(this).open()">
+                                Safety <i class="material-icons right">arrow_drop_down</i>
+                            </a>
+                        </li>
+                        <ul id="drop-safety" class="dropdown-content z-depth-1-topless">
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Safety">Overview</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Safety/Biosafety">Biosafety</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Safety/Biosecurity">Biosecurity</a>
+                            </li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Safety/Lab_Safety">Lab Safety</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Safety/Safe_By_Design">Safe By
+                                    Design</a></li>
+                        </ul>
+                        <!-- Human Practices -->
+                        <li>
+                            <a class="dropdown-trigger" data-target="drop-hp" onclick="M.Dropdown.getInstance(this).open()">
+                                Human Practices <i class="material-icons right">arrow_drop_down</i>
+                            </a>
+                        </li>
+                        <ul id="drop-hp" class="dropdown-content z-depth-1-topless">
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Human_Practices">Human Practices</a>
+                            </li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Public_Engagement">Education &amp;
+                                    Engagement</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Collaborations">Collaborations</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Ethics">Ethics</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Voice">Voice of iGEM</a></li>
+                        </ul>
+                        <!-- About Us -->
+                        <li>
+                            <a class="dropdown-trigger" data-target="drop-about" onclick="M.Dropdown.getInstance(this).open()">
+                                About Us <i class="material-icons right">arrow_drop_down</i>
+                            </a>
+                        </li>
+                        <ul id="drop-about" class="dropdown-content z-depth-1-topless">
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Team">The Team</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Attributions">Attributions</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/Sponsors">Sponsors</a></li>
+                            <li><a href="http://2019.igem.org/Team:Wageningen_UR/About">About the Wiki</a></li>
+                        </ul>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    <!-- Mobile Nav -->
+    <ul id="mobile-nav" class="sidenav">
+        <img class="sidenav-logo"
+            src="https://2019.igem.org/wiki/images/thumb/4/48/T--Wageningen_UR--Logo-black.png/800px-T--Wageningen_UR--Logo-black.png"
+            alt="Xylencer">
+        <div class="divider"></div>
+        <li>
+            <ul class="collapsible">
+                <!-- Project -->
+                <li>
+                    <a class="collapsible-header waves-effect">Project <i
+                            class="material-icons right">arrow_drop_down</i></a>
+                    <div class="collapsible-body z-depth-negative">
+                        <ul>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Description">Description</a></li>
+                            <li><a class="waves-effect" href="http://2019.igem.org/Team:Wageningen_UR/Design">Design</a>
+                            </li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Background">Background</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <!-- Results -->
+                <li>
+                    <a class="collapsible-header waves-effect">Results <i
+                            class="material-icons right">arrow_drop_down</i></a>
+                    <div class="collapsible-body z-depth-negative">
+                        <ul>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Results">Overview</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Model">Modeling</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Demonstrate">Demonstrate</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Achievements">Achievements</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <!-- Notebook -->
+                <li>
+                    <a class="collapsible-header waves-effect">Notebook <i
+                            class="material-icons right">arrow_drop_down</i></a>
+                    <div class="collapsible-body z-depth-negative">
+                        <ul>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Notebook">Labjournals</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Experiments">Protocols</a></li>
+                            <li><a class="waves-effect" href="http://2019.igem.org/Team:Wageningen_UR/Parts">Parts</a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+                <!-- Safety -->
+                <li>
+                    <a class="collapsible-header waves-effect">Safety <i
+                            class="material-icons right">arrow_drop_down</i></a>
+                    <div class="collapsible-body z-depth-negative">
+                        <ul>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Safety">Overview</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Safety/Biosafety">Biosafety</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Safety/Biosecurity">Biosecurity</a>
+                            </li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Safety/Lab_Safety">Lab Safety</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Safety/Safe_By_Design">Safe By
+                                    Design</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <!-- Human Practices -->
+                <li>
+                    <a class="collapsible-header">Human Practices <i
+                            class="material-icons right">arrow_drop_down</i></a>
+                    <div class="collapsible-body z-depth-negative">
+                        <ul>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Human_Practices">Human Practices</a>
+                            </li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Public_Engagement">Education &amp;
+                                    Engagement</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Collaborations">Collaborations</a>
+                            </li>
+                            <li><a class="waves-effect" href="http://2019.igem.org/Team:Wageningen_UR/Ethics">Ethics</a>
+                            </li>
+                            <li><a class="waves-effect" href="http://2019.igem.org/Team:Wageningen_UR/Voice">Voice of
+                                    iGEM</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <!-- About Us -->
+                <li>
+                    <a class="collapsible-header waves-effect">About Us <i
+                            class="material-icons right">arrow_drop_down</i></a>
+                    <div class="collapsible-body z-depth-negative">
+                        <ul>
+                            <li><a class="waves-effect" href="http://2019.igem.org/Team:Wageningen_UR/Team">The Team</a>
+                            </li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Attributions">Attributions</a></li>
+                            <li><a class="waves-effect"
+                                    href="http://2019.igem.org/Team:Wageningen_UR/Sponsors">Sponsors</a></li>
+                            <li><a class="waves-effect" href="http://2019.igem.org/Team:Wageningen_UR/About">About the
+                                    Wiki</a></li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </li>
+        <!-- Social media -->
+        <li>
+            <div class="row padding">
+                <div class="col s4 center">
+                    <a class="btn-floating grape-purple hover-opacity waves-effect waves-light scale-transition scale-out"
+                        href="https://twitter.com/igemwageningen" target="_blank">
+                        <i class="fab fa-twitter-square small white-text"></i>
+                    </a>
+                </div>
+                <div class="col s4 center">
+                    <a class="btn-floating grape-purple hover-opacity waves-effect waves-light scale-transition scale-out"
+                        href="https://www.instagram.com/igem.wageningen/" target="_blank">
+                        <i class="fab fa-instagram small white-text"></i>
+                    </a>
+                </div>
+                <div class="col s4 center">
+                    <a class="btn-floating grape-purple hover-opacity waves-effect waves-light scale-transition scale-out"
+                        href="https://www.facebook.com/pg/iGEMWageningen/posts/" target="_blank">
+                        <i class="fab fa-facebook-square small white-text"></i>
+                    </a>
+                </div>
+            </div>
+        </li>
+    </ul>
+
+
+
+        <!-- Header image -->
+        <header id="home" class="see-trough-nav scrollspy">
+            <div class="parallax-container overlay padding">
+                <div class="balign-wrapper h100">
+                    <h1 class="white-text center-align">Meet The Team!</h1>
+                    <div class="parallax"><img class="responsive-img" src="https://2019.igem.org/wiki/images/b/b1/T--Wageningen_UR--Group_photo_parallax.jpg" alt="Group Photo"></div>
+                </div>
+            </div>
+        </header>
+
+
+        <section id="Team_Members" class="section scrollspy padding-top">
+            <div class="content-wrapper">
+
+                <!-- Cleo Big -->
+                <div class="row teammember-large from-left hide-on-small-only" data-aos="fade-right">
+                    <div class="col s10 l8 offset-s2 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/3/36/T--Wageningen_UR--Cleo.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/cleobagchus/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-stacked">
+                                <div class="role-wrapper">
+                                    <!-- Role -->
+                                    <span class="white-text left-align">Team Captain</span>
+                                    <!-- Subproject -->
+                                    <span class="white-text right">Plant immune response</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text left-align no-margin-top">Cleo Bagchus</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">Guuuyysss, centraaaaallllll</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Cleo is our team captain. She is on top of everything and makes sure that no one is slacking, except on Slack of course. In her free time, she plays Lacrosse or she is reading Harry Potter &amp; The Philosophers Stone for the millionth time. She is working on the MAMPS that will trigger the plant immune system. </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Cleo Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/3/36/T--Wageningen_UR--Cleo.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/cleobagchus/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Cleo Bagchus</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">Guuuyysss, centraaaaallllll</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Cleo is our team captain. She is on top of everything and makes sure that no one is slacking, except on Slack of course. In her free time, she plays Lacrosse or she is reading Harry Potter &amp; The Philosophers Stone for the millionth time. She is working on the MAMPS that will trigger the plant immune system. </p>
+                            </div>
+                            <div class="role-wrapper">
+                                <!-- Role -->
+                                <span class="white-text left-align">Team Captain</span>
+                                <!-- Subproject -->
+                                <span class="white-text right">Plant immune response</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Alex Big -->
+                <div class="row teammember-large from-right hide-on-small-only" data-aos="fade-left">
+                    <div class="col s10 l8 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <div class="card-stacked">
+                                <div class="role-wrapper">
+                                    <!-- Subproject -->
+                                    <span class="white-text left-align">Anti-CRISPR circuit</span>
+                                    <!-- Role -->
+                                    <span class="white-text right">Lab Manager</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text right-align no-margin-top">Alexander Niederau</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">Raspberry pie, of course I know this</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Alex, 25, is from Germany, although he can speak Spanish with the Spanish crew, which he picked up when he studied abroad. All our plant questions are directed at him, as he is the only plant biotechnology student among us. He focuses on perfecting our circuit using Anti-CRISPR proteins.</p>
+                                </div>
+                            </div>
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/3/3f/T--Wageningen_UR--Alex.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/paul-alexander-niederau-412b17181/"><i class="fab fa-linkedin fa-lg"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Alex Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/3/3f/T--Wageningen_UR--Alex.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/paul-alexander-niederau-412b17181/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Alex Niederau</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">Raspberry pie, of course I know this</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Alex, 25, is from Germany, although he can speak Spanish with the Spanish crew, which he picked up when he studied abroad. All our plant questions are directed at him, as he is the only plant biotechnology student among us. He focuses on perfecting our circuit using Anti-CRISPR proteins.</p>
+                            </div>
+                            <div class="role-wrapper">
+                                <!-- Role -->
+                                <span class="white-text left-align">Lab Manager</span>
+                                <!-- Subproject -->
+                                <span class="white-text right">Anti-CRISPR circuit</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Marijn Big -->
+                <div class="row teammember-large from-left hide-on-small-only" data-aos="fade-right">
+                    <div class="col s10 l8 offset-s2 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/a/a2/T--Wageningen_UR--marijn.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/marijn-ceelen-63425a192/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-stacked">
+                                <div class="role-wrapper">
+                                    <!-- Role -->
+                                    <span class="white-text left-align">Treasurer</span>
+                                    <!-- Subproject -->
+                                    <span class="white-text right">Cell-free phage expression</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text left-align no-margin-top">Marijn Ceelen</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">Phages are like small machines, almost like spaceships</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Marijn has very carefully detailed our cashflow as the treasurer. In the lab he worked on cell-free-expression of phages, which goes in conjunction with him putting on a lot of his music. Although normally quite quiet, the conversations with Niels about philosophy know no end.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Marijn Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/a/a2/T--Wageningen_UR--marijn.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/marijn-ceelen-63425a192/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Marijn Ceelen</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">Phages are like small machines, almost like spaceships</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Marijn has very carefully detailed our cashflow as the treasurer. In the lab he worked on cell-free-expression of phages, which goes in conjunction with him putting on a lot of his music. Although normally quite quiet, the conversations with Niels about philosophy know no end.</p>
+                            </div>
+                            <div class="role-wrapper">
+                                <!-- Role -->
+                                <span class="white-text left-align">Treasurer</span>
+                                <!-- Subproject -->
+                                <span class="white-text right">Cell-free phage expression</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Alba Big -->
+                <div class="row teammember-large from-right hide-on-small-only" data-aos="fade-left">
+                    <div class="col s10 l8 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <div class="card-stacked">
+                                <div class="role-wrapper">
+                                    <!-- Subproject -->
+                                    <span class="white-text left-align">Kill switch</span>
+                                    <!-- Role -->
+                                    <span class="white-text right">Secretary</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text right-align no-margin-top">Alba Balletbó Canals</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">I’m doing the molecular thing</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Alba is our first Catalan, not Spanish, student, but she doesn’t like any Spanish music. She has taken notes during all of our meetings as our secretary. In the lab, she worked on a molecular timer kill switch. If she doesn’t agree with you, you will clearly be able to see it on her face.</p>
+                                </div>
+                            </div>
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/2/2b/T--Wageningen_UR--alba.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/alba-balletb%C3%B3-canals-1111a7193/"><i class="fab fa-linkedin fa-lg"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Alba Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <!-- Picture -->
+                        <div class="card">
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/2/2b/T--Wageningen_UR--alba.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/alba-balletb%C3%B3-canals-1111a7193/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Alba Balletbó Canals</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">I’m doing the molecular thing</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Alba is our first Catalan, not Spanish, student, but she doesn’t like any Spanish music. She has taken notes during all of our meetings as our secretary. In the lab, she worked on a molecular timer kill switch. If she doesn’t agree with you, you will clearly be able to see it on her face.</p>
+                            </div>
+                            <div class="role-wrapper">
+                                <!-- Role -->
+                                <span class="white-text left-align">Secretary</span>
+                                <!-- Subproject -->
+                                <span class="white-text right">Kill switch</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Robert Big -->
+                <div class="row teammember-large from-left hide-on-small-only" data-aos="fade-right">
+                    <div class="col s10 l8 offset-s2 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/c/cb/T--Wageningen_UR--robert.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/robert-hooftman-a53b9a191/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-stacked">
+                                <div class="role-wrapper">
+                                    <!-- Role -->
+                                    <span class="white-text left-align">Funding &amp; Human Practices</span>
+                                    <!-- Subproject -->
+                                    <span class="white-text right">Adhesion proteins</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text left-align no-margin-top">Robert Hooftman</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">I am also a failed pancake</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Robert is our social media presence and is also responsible for funding. He will be very happy if you give him a response about his hair in his own pictures. In the lab, he worked on generating a protein library of the adhesion proteins. He relieves any stress from this work in the gym.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Robert Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/c/cb/T--Wageningen_UR--robert.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/robert-hooftman-a53b9a191/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Robert Hooftman</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">I am also a failed pancake</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Robert is our social media presence and is also responsible for funding. He will be very happy if you give him a response about his hair in his own pictures. In the lab, he worked on generating a protein library of the adhesion proteins. He relieves any stress from this work in the gym.</p>
+                            </div>
+                            <div class="role-wrapper">
+                                <!-- Role -->
+                                <span class="white-text left-align">Funding &amp; HP</span>
+                                <!-- Subproject -->
+                                <span class="white-text right">Adhesion proteins</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Big Ben -->
+                <div class="row teammember-large from-right hide-on-small-only" data-aos="fade-left">
+                    <div class="col s10 l8 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <div class="card-stacked">
+                                <div class="role-wrapper">
+                                    <!-- Subproject -->
+                                    <span class="white-text left-align">Quorum sensing circuit</span>
+                                    <!-- Role -->
+                                    <span class="white-text right">Safety Officer</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text right-align no-margin-top">Ben Kuipers</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">I hope we are even going to reach failure</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Ben is our amazing safety officer. He has kept us safe in the lab, but we can’t guarantee your safety if you meet him on the soccer field or on his electric bike. Ben has worked on perfecting the genetic circuit for sensing DSF.</p>
+                                </div>
+                            </div>
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/e/e6/T--Wageningen_UR--ben.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/ben-kuipers-50515193/"><i class="fab fa-linkedin fa-lg"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Small Ben -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/e/e6/T--Wageningen_UR--ben.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/ben-kuipers-50515193/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Ben Kuipers</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">I hope we are even going to reach failure</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Ben is our amazing safety officer. He has kept us safe in the lab, but we can’t guarantee your safety if you meet him on the soccer field or on his electric bike. Ben has worked on perfecting the genetic circuit for sensing DSF.</p>
+                            </div>
+                            <div class="role-wrapper">
+                                <!-- Role -->
+                                <span class="white-text left-align">Safety Officer</span>
+                                <!-- Subproject -->
+                                <span class="white-text right">Quorum sensing circuit</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Santi Big -->
+                <div class="row teammember-large from-left hide-on-small-only" data-aos="fade-right">
+                    <div class="col s10 l8 offset-s2 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/e/e4/T--Wageningen_UR--santi.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/santiago-castanedo-fontanillas-0b401a117/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-stacked">
+                                <div class="role-wrapper">
+                                    <!-- Role -->
+                                    <span class="white-text left-align">Head of Design</span>
+                                    <!-- Subproject -->
+                                    <span class="white-text right">Phage engineering</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text left-align no-margin-top">Santiago Castanedo Fontanillas</h4>
+                                    <div class="margin-bottom center">
+                                        <!-- Quote -->
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">Marijn and I are compenetrating really well (when he really meant cooperating)</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Santi is our second Spanish student and responsible for our design. He loves reggaeton at a party and you might spot him dancing in the lab if his project, engineering phage genomes using yeast, stresses him out. He loves to cook and will definitely not eat peanut butter sandwiches.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Santi Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/e/e4/T--Wageningen_UR--santi.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/santiago-castanedo-fontanillas-0b401a117/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Santiago Castanedo Fontanillas</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">Marijn and I are compenetrating really well (when he really meant cooperating)</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Santi is our second Spanish student and responsible for our design. He loves reggaeton at a party and you might spot him dancing in the lab if his project, engineering phage genomes using yeast, stresses him out. He loves to cook and will definitely not eat peanut butter sandwiches.</p>
+                            </div>
+                            <div class="role-wrapper">
+                                <span class="white-text left-align">Head of design</span>
+                                <span class="white-text right">Phage engineering</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Hetty Big -->
+                <div class="row teammember-large from-right hide-on-small-only" data-aos="fade-left">
+                    <div class="col s10 l8 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <div class="card-stacked">
+                                <div class="role-wrapper">
+                                    <!-- Subproject -->
+                                    <span class="white-text left-align">Modeling</span>
+                                    <!-- Role -->
+                                    <span class="white-text right">Human Practices</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text right-align no-margin-top">Hetty Huijs</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">Synthetic biology is all about genes</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Hetty is one of our heads of Human Practices. You can always wake her up for both human practices and a cup of black tea. She is responsible for all our models, including the spread of X. fastidiosa. Only after a lot of begging and an activity involving running, she finally allowed us to see her without heels.</p>
+                                </div>
+                            </div>
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/1/1b/T--Wageningen_UR--hetty.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/hetty-huijs-8a3376a0/"><i class="fab fa-linkedin fa-lg"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Hetty Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/1/1b/T--Wageningen_UR--hetty.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/hetty-huijs-8a3376a0/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Hetty Huijs</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">Synthetic biology is all about genes</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Hetty is one of our heads of Human Practices. You can always wake her up for both human practices and a cup of black tea. She is responsible for all our models, including the spread of X. fastidiosa. Only after a lot of begging and an activity involving running, she finally allowed us to see her without heels.</p>
+                            </div>
+                            <div class="role-wrapper">
+                                <!-- Role -->
+                                <span class="white-text left-align">Human Practices</span>
+                                <!-- Subproject -->
+                                <span class="white-text right">Modelling</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Niels Big -->
+                <div class="row teammember-large from-left hide-on-small-only" data-aos="fade-right">
+                    <div class="col s10 l8 offset-s2 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/1/1a/T--Wageningen_UR--niels.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/niels-appelman-389034191/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-stacked">
+                                <div class="role-wrapper">
+                                    <!-- Role -->
+                                    <span class="white-text left-align">Human Practices</span>
+                                    <!-- Subproject -->
+                                    <span class="white-text right">Detection device</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text left-align no-margin-top">Niels Appelman</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">Do you see what I mean?</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Niels is one of our Human Practices heads, mostly focusing on ethics. As you can imagine, he likes to bore people with philosophical questions. He worked on detecting X. fastidiosa on insects using LAMP. If he is not in the field catching insects, you might see him on the lacrosse field or in his Batcave.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Niels Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/1/1a/T--Wageningen_UR--niels.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/niels-appelman-389034191/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Niels Appelman</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">Do you see what I mean?</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Niels is one of our Human Practices heads, mostly focusing on ethics. As you can imagine, he likes to bore people with philosophical questions. He worked on detecting X. fastidiosa on insects using LAMP. If he is not in the field catching insects, you might see him on the lacrosse field or in his Batcave.</p>
+                            </div>
+                            <div class="role-wrapper">
+                                <!-- Role -->
+                                <span class="white-text left-align">Human Practices</span>
+                                <!-- Subproject -->
+                                <span class="white-text right">Detection tool</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bas Big -->
+                <div class="row teammember-large from-right hide-on-small-only" data-aos="fade-left">
+                    <div class="col s10 l8 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <div class="card-stacked">
+                                <div class="role-wrapper">
+                                    <!-- Subproject -->
+                                    <span class="white-text left-align">Phage repression</span>
+                                    <!-- Role -->
+                                    <span class="white-text right">Funding</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text right-align no-margin-top">Sebastiaan Kuiper</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">we’re doing all this shitskabam</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Bas is our very own head of funding and so is responsible for us getting to Boston. He challenges us to think critically. In the lab he represses phage lambda particle production using dCas12a. You can never spot him having bad food and he likes to ride his motorcycle.</p>
+                                </div>
+                            </div>
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/b/bf/T--Wageningen_UR--bas.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/sebastiaan-kuiper-48038513a/"><i class="fab fa-linkedin fa-lg"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bas Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/b/bf/T--Wageningen_UR--bas.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/sebastiaan-kuiper-48038513a/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Sebastiaan Kuiper</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">we’re doing all this shitskabam</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Bas is our very own head of funding and so is responsible for us getting to Boston. He challenges us to think critically. In the lab he represses phage lambda particle production using dCas12a. You can never spot him having bad food and he likes to ride his motorcycle.</p>
+                            </div>
+                            <div class="role-wrapper">
+                                <!-- Role -->
+                                <span class="white-text left-align">Funding</span>
+                                <!-- Subproject -->
+                                <span class="white-text right">Phage repression</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Dennie Big -->
+                <div class="row teammember-large from-left hide-on-small-only" data-aos="fade-right">
+                    <div class="col s10 l8 offset-s2 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/3/3c/T--Wageningen_UR--dennie.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/dennie-te-molder-287922193/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-stacked">
+                                <div class="role-wrapper">
+                                    <!-- Role -->
+                                    <span class="white-text left-align">Wiki Manager</span>
+                                    <!-- Subproject -->
+                                    <span class="white-text right">Bioinformatics</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text left-align no-margin-top">Dennie te Molder</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">Maybe if I just change this one thing then it will be perfect</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Dennie is our Wiki Wizard, although he might not fit the stereotype. Besides this, he also does all our bioinformatic analysis, mostly focusing on protein domain analysis to determine pathogenicity. He is the most structured one in our team, and you will never spot him having unhealthy non-meal-prepped lunches.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Dennie Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/3/3c/T--Wageningen_UR--dennie.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <!-- Linkedin -->
+                            <a class="btn-floating btn-large hex-fab waves-effect waves-light grape-purple z-depth-2" href="https://www.linkedin.com/in/dennie-te-molder-287922193/"><i class="fab fa-linkedin fa-lg"></i></a>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Dennie te Molder</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">Maybe if I just change this one thing then it will be perfect</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Dennie is our Wiki Wizard, although he might not fit the stereotype. Besides this, he also does all our bioinformatic analysis, mostly focusing on protein domain analysis to determine pathogenicity. He is the most structured one in our team, and you will never spot him having unhealthy non-meal-prepped lunches.</p>
+                            </div>
+                            <div class="role-wrapper">
+                                <!-- Role -->
+                                <span class="white-text left-align">Wiki Manager</span>
+                                <!-- Subproject -->
+                                <span class="white-text right">Bioinformatics</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!---------------------- Supervisors ---------------------->
+
+        <section id="Supervisors" class="section scrollspy">
+
+            <div class="margin padding olive-green center">
+                <div class="container">
+                    <h2 class="white-text">Supervisors</h2>
+                    <div class="divider-small white"></div>
+                </div>
+            </div>
+
+            <div class="content-wrapper">
+                <div class="padding-top" data-aos="fade">
+                    <h3 class="grape-purple-text">Team Supervisors</h3>
+                    <div class="divider-small grape-purple"></div>
+                </div>
+
+                <!-- Raymond Big -->
+                <div class="row teammember-large from-left hide-on-small-only" data-aos="fade-right">
+                    <div class="col s10 l8 offset-s2 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(http://2017.igem.org/wiki/images/1/1a/T--Wageningen_UR--Team_Raymond.png)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <div class="card-stacked">
+                                <div class="role-wrapper center">
+                                    <!-- Role -->
+                                    <span class="white-text">Principal Investigator</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text left-align no-margin-top">Raymond Staals</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">Eyebrow raising science</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Raymond is the guy we can go to with any questions. He was responsible for arranging nearly everything for us (even things we didn't know about), as well as contributing to various parts of the project with his ‘crazy Raymond ideas’.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Raymond Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(http://2017.igem.org/wiki/images/1/1a/T--Wageningen_UR--Team_Raymond.png)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Raymond Staals</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">Eyebrow raising science</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Raymond is the guy we can go to with any questions. He was responsible for arranging nearly everything for us (even things we didn't know about), as well as contributing to various parts of the project with his ‘crazy Raymond ideas’.</p>
+                            </div>
+                            <div class="role-wrapper center">
+                                <!-- Role -->
+                                <span class="white-text">Principal Investigator</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Jasper Big -->
+                <div class="row teammember-large from-right hide-on-small-only" data-aos="fade-left">
+                    <div class="col s10 l8 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <div class="card-stacked">
+                                <div class="role-wrapper center">
+                                    <!-- Role -->
+                                    <span class="white-text">Principal Investigator &amp; Supervised Dennie</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text right-align no-margin-top">Jasper Koehorst</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">Alrighty</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Jasper is our second team supervisor. He helped organize a lot for us and he even tolerated us in an office next to him (you can imagine how difficult that is). If this is not enough, he also helped Dennie with bioinformatics.</p>
+                                </div>
+                            </div>
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/1/1e/T--Wageningen_UR--jasper.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Jasper Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/1/1e/T--Wageningen_UR--jasper.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Jasper Koehorst</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">Alright</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Jasper is our second team supervisor. He helped organize a lot for us and he even tolerated us in an office next to him (you can imagine how difficult that is). If this is not enough, he also helped Dennie with bioinformatics.</p>
+                            </div>
+                            <div class="role-wrapper center">
+                                <!-- Role -->
+                                <span class="white-text">Principal Investigator &amp; Supervised Dennie</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="padding-top" data-aos="fade">
+                    <h3 class="grape-purple-text">Individual Supervisors</h3>
+                    <div class="divider-small grape-purple"></div>
+                </div>
+
+                <!-- Wen Big -->
+                <div class="row teammember-large from-left hide-on-small-only" data-aos="fade-right">
+                    <div class="col s10 l8 offset-s2 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/d/d8/T--Wageningen_UR--wen.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <div class="card-stacked">
+                                <div class="role-wrapper center">
+                                    <!-- Role -->
+                                    <span class="white-text">Supervised Marijn &amp; Sebastiaan</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text left-align no-margin-top">Wen Wu</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">If I were a cell...</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>You may know the enthusiastic Wen from the Wageningen iGEM team of 2014, where she was the team captain. Now, as a PhD candidate and supervisor, she guides us through the competition. We especially appreciated her feedback on presentations and overviews but we could also ask her any wetlab question.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Wen Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/d/d8/T--Wageningen_UR--wen.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Wen Wu</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">If I were a cell...</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>You may know the enthusiastic Wen from the Wageningen iGEM team of 2014, where she was the team captain. Now, as a PhD candidate and supervisor, she guides us through the competition. We especially appreciated her feedback on presentations and overviews but we could also ask her any wetlab question.</p>
+                            </div>
+                            <div class="role-wrapper center">
+                                <!-- Role -->
+                                <span class="white-text">Supervised Marijn &amp; Sebastiaan</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Carina Big -->
+                <div class="row teammember-large from-right hide-on-small-only" data-aos="fade-left">
+                    <div class="col s10 l8 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <div class="card-stacked">
+                                <div class="role-wrapper center">
+                                    <!-- Role -->
+                                    <span class="white-text">Supervised Niels</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text right-align no-margin-top">Carina Nieuwenweg</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">I have some contacts there</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Carina was the human practices queen of the Wageningen iGEM team of 2016. We gladly made use of her expertise. She helped us plan our human practices, calmly guided us through difficult conversations with stakeholders and always knows someone somewhere.</p>
+                                </div>
+                            </div>
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/2/28/T--Wageningen_UR--carina.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Carina Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/2/28/T--Wageningen_UR--carina.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Carina Nieuwenweg</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">I have some contacts there</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Carina was the human practices queen of the Wageningen iGEM team of 2016. We gladly made use of her expertise. She helped us plan our human practices, calmly guided us through difficult conversations with stakeholders and always knows someone somewhere.</p>
+                            </div>
+                            <div class="role-wrapper center">
+                                <!-- Role -->
+                                <span class="white-text">Supervised Niels</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Jurre Big -->
+                <div class="row teammember-large from-left hide-on-small-only" data-aos="fade-right">
+                    <div class="col s10 l8 offset-s2 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(http://2017.igem.org/wiki/images/d/d5/T--Wageningen_UR--Team_Jurre.png)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <div class="card-stacked">
+                                <div class="role-wrapper center">
+                                    <!-- Role -->
+                                    <span class="white-text">Supervised Cleo &amp; Sebastiaan</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text left-align no-margin-top">Jurre Steens</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">iGEM headquarters will love this..</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Jurre is another familiar face, as he was part of the Wageningen iGEM team of 2017. He could therefore help us both with iGEM, but also with protein expression and purification. Following his advice always seemed to help, even when protein expression seems impossible. He also tolerated our 3D printing whims.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Jurre Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(http://2017.igem.org/wiki/images/d/d5/T--Wageningen_UR--Team_Jurre.png)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Jurre Steens</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">iGEM headquarters will love this..</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Jurre is another familiar face, as he was part of the Wageningen iGEM team of 2017. He could therefore help us both with iGEM, but also with protein expression and purification. Following his advice always seemed to help, even when protein expression seems impossible. He also tolerated our 3D printing whims.</p>
+                            </div>
+                            <div class="role-wrapper center">
+                                <!-- Role -->
+                                <span class="white-text">Supervised Cleo &amp; Sebastiaan</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Rik Big -->
+                <div class="row teammember-large from-right hide-on-small-only" data-aos="fade-left">
+                    <div class="col s10 l8 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <div class="card-stacked">
+                                <div class="role-wrapper center">
+                                    <!-- Role -->
+                                    <span class="white-text">Supervised Hetty</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text right-align no-margin-top">Rik van Rosmalen</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">I can also do cloning</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Rik is the calm supervisor that helps with all our modeling behind the scenes, but he could also help us with our cloning problems. He was part of the iGEM Wageningen team of 2014, so he can share all the ins and outs of the competition with us.</p>
+                                </div>
+                            </div>
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/1/12/T--Wageningen_UR--rik.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Rik Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/1/12/T--Wageningen_UR--rik.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Rik van Rosmalen</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">I can also do cloning</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Rik is the calm supervisor that helps with all our modeling behind the scenes, but he could also help us with our cloning problems. He was part of the iGEM Wageningen team of 2014, so he can share all the ins and outs of the competition with us.</p>
+                            </div>
+                            <div class="role-wrapper center">
+                                <!-- Role -->
+                                <span class="white-text">Supervised Hetty</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Thomas Big -->
+                <div class="row teammember-large from-left hide-on-small-only" data-aos="fade-right">
+                    <div class="col s10 l8 offset-s2 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/3/33/T--Wageningen_UR--thomas.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <div class="card-stacked">
+                                <div class="role-wrapper center">
+                                    <!-- Role -->
+                                    <span class="white-text">Supervised Robert &amp; Santiago</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text left-align no-margin-top">Thomas Swartjes</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">I’m not really a mean guy</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Thomas was the team captain of the iGEM Wageningen 2016 team. He can give us useful advice based on hands-on experience in the competition. If you can get through the layer of dry jokes, you will find a lot of useful advice.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Thomas Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/3/33/T--Wageningen_UR--thomas.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Thomas Swartjes</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">I’m not really a mean guy</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Thomas was the team captain of the iGEM Wageningen 2016 team. He can give us useful advice based on hands-on experience in the competition. If you can get through the layer of dry jokes, you will find a lot of useful advice.</p>
+                            </div>
+                            <div class="role-wrapper center">
+                                <!-- Role -->
+                                <span class="white-text">Supervised Robert &amp; Santiago</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Despina Big -->
+                <div class="row teammember-large from-right hide-on-small-only" data-aos="fade-left">
+                    <div class="col s10 l8 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <div class="card-stacked">
+                                <div class="role-wrapper center">
+                                    <!-- Role -->
+                                    <span class="white-text">Supervised Alex &amp; Cleo</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text right-align no-margin-top">Despoina Trasanidou</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">PCR, gel, extraction, gibson assembly, transformation... I think you can do this in one day.</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Despoina is our enthusiastic Greek Anti-CRISPR expert. She was always willing to supervise you in the lab if you were working late, even if we still can’t pronounce her name.</p>
+                                </div>
+                            </div>
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/2/20/T--Wageningen_UR--despoina.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Despoina Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/2/20/T--Wageningen_UR--despoina.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Despoina Trasanidou</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">PCR, gel, extraction, gibson assembly, transformation... I think you can do this in one day.</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Despoina is our enthusiastic Greek Anti-CRISPR expert. She was always willing to supervise you in the lab if you were working late, even if we still can’t pronounce her name.</p>
+                            </div>
+                            <div class="role-wrapper center">
+                                <!-- Role -->
+                                <span class="white-text">Supervised Alex &amp; Cleo</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Maria Big -->
+                <div class="row teammember-large from-left hide-on-small-only" data-aos="fade-right">
+                    <div class="col s10 l8 offset-s2 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/b/bf/T--Wageningen_UR--maria.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <div class="card-stacked">
+                                <div class="role-wrapper center">
+                                    <!-- Role -->
+                                    <span class="white-text">Supervised Ben &amp; Alba</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text left-align no-margin-top">Maria Martin Pascual</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">But this is not enough</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Maria is one of the Spanish supervisors. She protects and strictly guides our SSB wetlab iGEM members. She proves that great advice can come in small packages. She helped us consider performing research on CRISPR into non-model organisms.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Maria Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/b/bf/T--Wageningen_UR--maria.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Maria Martin Pascual</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">But this is not enough</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Maria is one of the Spanish supervisors. She protects and strictly guides our SSB wetlab iGEM members. She proves that great advice can come in small packages. She helped us consider performing research on CRISPR into non-model organisms.</p>
+                            </div>
+                            <div class="role-wrapper center">
+                                <!-- Role -->
+                                <span class="white-text">Supervised Ben &amp; Alba</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Enrique Big -->
+                <div class="row teammember-large from-right hide-on-small-only" data-aos="fade-left">
+                    <div class="col s10 l8 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <div class="card-stacked">
+                                <div class="role-wrapper center">
+                                    <!-- Role -->
+                                    <span class="white-text">Supervised Alba &amp; Ben</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text right-align no-margin-top">Enrique Asín García</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">You never tell me anything</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Enrique is the other Spanish supervisor for Ben and Alba. He gives you advice while also wisely stroking his perfect mustache. He cares about his students as much as he cares about fashion.</p>
+                                </div>
+                            </div>
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/c/c6/T--Wageningen_UR--enrique.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Enrique Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/c/c6/T--Wageningen_UR--enrique.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Enrique Asín García</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">You never tell me anything</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Enrique is the other Spanish supervisor for Ben and Alba. He gives you advice while also wisely stroking his perfect mustache. He cares about his students as much as he cares about fashion.</p>
+                            </div>
+                            <div class="role-wrapper center">
+                                <!-- Role -->
+                                <span class="white-text">Supervised Alba &amp; Ben</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Lyon Big -->
+                <div class="row teammember-large from-left hide-on-small-only" data-aos="fade-right">
+                    <div class="col s10 l8 offset-s2 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/e/ec/T--Wageningen_UR--lyon.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                            <div class="card-stacked">
+                                <div class="role-wrapper center">
+                                    <!-- Role -->
+                                    <span class="white-text">Supervised Ben &amp; Alba</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text left-align no-margin-top">Lyon Bruinsma</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">I’m the best supervisor</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Lyon is our Dutch supervisor who communicates in Spanish 80% of the time and loves Spanish music. He is always fun to meet in the lab, but how could you not be happy when you meet the best supervisor?</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Lyon Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/e/ec/T--Wageningen_UR--lyon.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Lyon Bruinsma</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">I’m the best supervisor</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Lyon is our Dutch supervisor who communicates in Spanish 80% of the time and loves Spanish music. He is always fun to meet in the lab, but how could you not be happy when you meet the best supervisor?</p>
+                            </div>
+                            <div class="role-wrapper center">
+                                <!-- Role -->
+                                <span class="white-text">Supervised Ben &amp; Alba</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Joep Big -->
+                <div class="row teammember-large from-right hide-on-small-only" data-aos="fade-left">
+                    <div class="col s10 l8 offset-l2">
+                        <div class="card horizontal no-margin">
+                            <div class="card-stacked">
+                                <div class="role-wrapper center">
+                                    <!-- Role -->
+                                    <span class="white-text">Supervised Santiago</span>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="grape-purple-text right-align no-margin-top">Joep Houkes</h4>
+                                    <!-- Quote -->
+                                    <div class="margin-bottom center">
+                                        <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                        <em style="margin: 0 0.15rem">Have you seen Santi?</em>
+                                        <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                    </div>
+                                    <p>Joep is our yeast-guru. You can find him searching for Santi 60% of the time. During meetings he calmly gives us great advice.</p>
+                                </div>
+                            </div>
+                            <!-- Picture -->
+                            <div class="hexagon-wrapper">
+                                <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/b/b2/T--Wageningen_UR--joep.jpg)">
+                                    <div class="hexTop"></div>
+                                    <div class="hexBottom"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Joep Small -->
+                <div class="row teammember-small hide-on-med-and-up" data-aos="fade-up">
+                    <div class="col s12">
+                        <div class="card">
+                            <!-- Picture -->
+                            <div class="hexagon" style="background-image: url(https://2019.igem.org/wiki/images/b/b2/T--Wageningen_UR--joep.jpg)">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="card-content">
+                                <h4 class="grape-purple-text no-margin-top">Joep Houkes</h4>
+                                <!-- Quote -->
+                                <div class="margin-bottom center">
+                                    <i class="fas fa-quote-left fa-xs grape-purple-text"></i>
+                                    <em style="margin: 0 0.15rem">Have you seen Santi?</em>
+                                    <i class="fas fa-quote-right fa-xs grape-purple-text"></i>
+                                </div>
+                                <p>Joep is our yeast-guru. You can find him searching for Santi 60% of the time. During meetings he calmly gives us great advice.</p>
+                            </div>
+                            <div class="role-wrapper center">
+                                <!-- Role -->
+                                <span class="white-text">Supervised Santiago</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+
+
+
+    <!-- Footer -->
+    <footer class="page-footer olive-green">
+        <div class="container">
+            <div class="row">
+                <div class="col l6 s12">
+                    <h5>Xylencer</h5>
+                    <p class="left-align">A project by the Wageningen University &amp; Research iGEM 2019 team.</p>
+                    <h5>Contact</h5>
+                    <div class="valign-wrapper">
+                        <i class="material-icons small">mail_outline</i>
+                        <a class="white-text hover-bold" href="mailto:igemwageningen@gmail.com">igemwageningen@gmail.com</a>
+                    </div>
+                </div>
+                <div class="col l4 offset-l2 s12">
+                    <h5 class="white-text">Follow Us!</h5>
+                    <ul>
+                        <li>
+                            <div class="valign-wrapper">
+                                <i class="fab fa-twitter-square small"></i>
+                                <a class="white-text hover-bold" href="https://twitter.com/igemwageningen" target="_blank">@igemwageningen</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="valign-wrapper">
+                                <i class="fab fa-instagram small"></i>
+                                <a class="white-text hover-bold" href="https://www.instagram.com/igem.wageningen/" target="_blank">igem.wageningen</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="valign-wrapper">
+                                <i class="fab fa-facebook-square small"></i>
+                                <a class="white-text hover-bold" href="https://www.facebook.com/pg/iGEMWageningen/posts/" target="_blank">iGEMWageningen</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="valign-wrapper">
+                                <i class="fab fa-linkedin small"></i>
+                                <a class="white-text hover-bold" href="https://www.linkedin.com/in/igem-wageningen-333033191/" target="_blank">iGEM Wageningen</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="container center">Xylencer 2019</div>
+        </div>
+    </footer>
+
+    <!-- FAB -->
+    <div id="section-nav" class="fixed-action-btn">
+        <a id="section-nav-button"
+            class="btn-floating btn-large grape-purple waves-effect waves-circle waves-light z-depth-3"
+            onclick="firstActivation = false;">
+            <i class="large material-icons">swap_vert</i>
+        </a>
+        <!-- This List is auto generated -->
+        <ul>
+            <li>
+                <h6 class="no-margin">SECTIONS</h6>
+            </li>
+            <li><a class="btn-floating z-depth-1" href="#home">Back To Top</a></li>
+        </ul>
+    </div>
+
+    <script src="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/js/materialize.min.js&amp;action=raw&amp;ctype=text/javascript" type="text/javascript"></script>
+    <script src="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/js/aos.js&amp;action=raw&amp;ctype=text/javascript" type="text/javascript"></script>
+    <script src="https://2019.igem.org/wiki/index.php?title=Template:Wageningen_UR/js/main.js&amp;action=raw&amp;ctype=text/javascript" type="text/javascript"></script>
+
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.015 seconds
+Real time usage: 0.017 seconds
+Preprocessor visited node count: 14/1000000
+Preprocessor generated node count: 64/1000000
+Post‐expand include size: 82/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key 2019_igem_org:pcache:idhash:8608-0!*!*!*!*!*!* and timestamp 20200707041226 and revision id 536508
+ -->
+</div>		            <div class="visualClear"></div>
+	            </div>
+		    </div>
+
+        </div>
+    </div>
+</html>
