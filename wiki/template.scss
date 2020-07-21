@@ -1,9 +1,9 @@
 // Variables
 $font-stack: Lato, Sans-serif;
 $font-size: 18px;
-$primary-color: #AEAD0D;
-$secondary-color: #26B9C8;
-$accent-color: #FFF56C;
+$primary-color: #087F8C; //color 2 from palette 3
+$secondary-color: #095256; //color 1 from palette 3
+$accent-color: #BB9F06; //color 5 from palette 3
 $grey: #e0e0e0;
 $light-grey: #f5f5f5;
 
@@ -202,35 +202,35 @@ figcaption {
 /******************************************/
 /************ Color Themes ****************/
 /******************************************/
-.olive-green {
+.teal {
     background-color: $primary-color !important;
 }
 
-.olive-green-text {
+.teal-text {
     color: $primary-color !important;
 }
 
-.spinner-olive-green-only {
+.spinner-teal-only {
     border-color: $primary-color;
 }
 
-.grape-purple {
+.dark-blue {
     background-color: $secondary-color !important;
 }
 
-.grape-purple-text {
+.dark-blue-text {
     color: $secondary-color !important;
 }
 
-.spinner-grape-purple-only {
+.spinner-dark-blue-only {
     border-color: $secondary-color;
 }
 
-.accent-orange {
+.accent-yellow {
     background-color: $accent-color !important;
 }
 
-.accent-orange-text {
+.accent-yellow-text {
     color: $accent-color !important;
 }
 
