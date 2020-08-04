@@ -1,0 +1,98 @@
+---
+title: "DataVisualization"
+author: "Kalen Clifton"
+date: "8/4/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+To run each chunk, click on the green arrow button in each code block.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. 
+
+## Set up for Data Visualization
+
+Uncomment and run chunk to install the package ggplot2. Recomment out this section before knitting the document
+```{r}
+#install.packages("ggplot2")
+```
+
+Open ggplot2 library
+```{r}
+library(ggplot2)
+```
+## Plotting Example
+
+The dataset `mpg` has data on several car models collected the US EPA. The plot below displays some of that data. The variable on the x-axis is `cty`, a car’s fuel efficiency in the city, in miles per gallon (mpg). The variable on the y-axis is `hwy`, a car’s fuel efficiency on the highway in mpg.
+
+Two other variables are included in the plot by aesthetic mapping. An aesthetic is a visual property of the objects in your plot. Aesthetics include things like the size, the shape, or the color of your points. 
+
+The `class` variable is added to the plot by mapping the levels of `color` to the values of `class`. (The `class` variable of the `mpg` dataset classifies cars into groups such as compact, midsize, and SUV.)
+
+The `drv` variable (identifies type of drive including four wheel drive, front-wheel drive, and rear wheel drive) is added to the plot by mapping the levels of `shape` to the values of `drv`.
+
+```{r}
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = cty, y = hwy, color = class, shape = drv))
+```
+
+Code Template. If desired use for prompts below, replace the bracketed sections and delete the `#`'s
+```{r}
+# ggplot(data = <DATA>) + 
+#  <GEOM_FUNCTION>(mapping = aes(<MAPPINGS>))
+```
+
+## Visualizing Data from Experiments on Cyanobacteria Growth
+
+1. Load in `growth` data from characterization team (artificial data for example only)
+```{r}
+growth <- read.csv('https://raw.githubusercontent.com/kpclifton/Baltimore_BioCrew/master/app/examples/Data%20Visualization/characterization.csv')
+```
+
+2. View how the data is structured by printing the first 10 rows.
+```{r}
+head(growth, 10)
+```
+
+3. View a summary of the data to understand basic statistics about the values in the columns (such as counts for categorical variables and means for continous variables).
+```{r}
+summary(growth)
+```
+
+Optional: The `View` function opens the dataframe in another tab where you can scroll through the whole dataset
+```{r}
+#View(growth)
+```
+
+4. Plot `Days` vs `OD` as smooth line using `geom_smooth`
+```{r}
+
+```
+
+5. Plot `Days` vs `OD` as scatter plot using `geom_point`
+```{r}
+
+```
+
+
+6. Plot `Days` vs `OD` as scatter plot and add a label by mapping the variable `Trial` to `color`
+```{r}
+
+```
+
+
+7. Try to create new plot(s) of your own design. Consider what you think would be useful for the project or simply test out different different functions and settings. You can use the cheat sheet at https://rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf 
+
+```{r}
+
+
+```
+
+
