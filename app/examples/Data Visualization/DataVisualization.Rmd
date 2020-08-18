@@ -95,4 +95,24 @@ Optional: The `View` function opens the dataframe in another tab where you can s
 
 ```
 
+8. Load in `NewPart` data (artificial data for example only). 
+```{r}
+NewPart <- read.csv('https://raw.githubusercontent.com/kpclifton/Baltimore_BioCrew/master/app/examples/Data%20Visualization/NewParts.csv')
+```
+
+9. Try to create new plot(s) of your own design. Consider what you think would be useful for the project or simply test out different different functions and settings.
+```{r}
+
+
+```
+
+10. Load in `NewPartTimeSeries` data (artificial data for example only). 
+```{r}
+NewPartTimeSeries <- read.csv('https://raw.githubusercontent.com/kpclifton/Baltimore_BioCrew/master/app/examples/Data%20Visualization/NewPartTimeSeries.csv')
+
+11. Try to create new plot(s) of your own design. Consider what you think would be useful for the project or simply test out different different functions and settings.
+```{r}
+
+
+```
 
