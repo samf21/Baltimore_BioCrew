@@ -1,0 +1,55 @@
+# Maria's Data
+Cyano_Growth <- data.frame(
+    Time = c(54.75,65.50,79.00,91.00,102.00,126.00,150.00,175.00,200.50,223.00,248.75,271.17,296.17,319.00,345.00),
+    NIron = c(64,60,58,50,54,50,52,52,45,NA,47,NA,44,45,43),
+    hIron = c(57,52,55,50,49,54,51,49,51,50,42,43,44,46,46),
+    tIron = c(70,60,68,57,51,53,52,45,49,45,42,42,39,41,41),
+    Iron = c(60,64,58,62,55,53,52,47,48,45,40,40,34,32,28),
+    TIron = c(49,48,51,48,45,45,44,39,40,35,34,35,30,31,NA)
+)
+
+library(shiny)
+library(shinyWidgets)
+library(ggplot2)
+# Define UI for application
+ui <- fluidPage(
+
+    # Application title
+    titlePanel("iGEM Data App"),
+
+    # Sidebar
+    sidebarLayout(
+        sidebarPanel(
+            shinyWidgets::sliderTextInput("slider","Iron Concentration:",
+                                          choices=c(0, 1/100, 1/10, 1, 10),
+                                          selected=0, grid = T)
+        ),
+
+        mainPanel(
+           plotOutput("distPlot")
+        )
+    )
+)
+
+# Define server logic
+server <- function(input, output) {
+    output$distPlot <- renderPlot({
+     if(input$slider == 0){
+            ggplot(data = Cyano_Growth, aes(x = Time, y = 1/NIron)) + geom_smooth() + labs(y = "1/Secchi Measurement", x = "Time since Start")+ ylim(min = 0.01,max = .04)
+        }
+    else if (input$slider == 1/100){
+            ggplot(data = Cyano_Growth, aes(x = Time, y = 1/hIron)) + geom_smooth() + labs(y = "1/Secchi Measurement", x = "Time since Start")+ ylim(min = 0.01,max = .04)
+        }
+    else if(input$slider == 1/10){
+            ggplot(data = Cyano_Growth, aes(x = Time, y = 1/tIron)) + geom_smooth() + labs(y = "1/Secchi Measurement", x = "Time since Start")+ ylim(min = 0.01,max = .04)
+        }
+    else if(input$slider == 1){
+            ggplot(data = Cyano_Growth, aes(x = Time, y = 1/Iron)) + geom_smooth() + labs(y = "1/Secchi Measurement", x = "Time since Start")+ ylim(min = 0.01,max = .04)
+        }
+    else if(input$slider == 10){
+            ggplot(data = Cyano_Growth, aes(x = Time, y = 1/TIron)) + geom_smooth() + labs(y = "1/Secchi Measurement", x = "Time since Start")+ ylim(min = 0.01,max = .04)
+        }})
+}
+
+# Run the application 
+shinyApp(ui = ui, server = server)
